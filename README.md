@@ -2,7 +2,7 @@
 
 ## 💻 Projeto
 
-Criei um Menu DropDown para o Desfio #4 do Front-End Fusion (Projeto Voluntário). Clique <a href="https://menu-dropdown-omega.vercel.app/">aqui</a> para conferir!
+Criei um Menu DropDown para o Desafio #4 do Front-End Fusion (Projeto Voluntário). Clique <a href="https://menu-dropdown-omega.vercel.app/">aqui</a> para conferir!
 
 ---
 
